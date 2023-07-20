@@ -8,7 +8,7 @@ To install the necessary modules run:
 npm i
 ```
 
-Next add `test.cookie.net` to `/etc/hosts`
+Next add `127.0.0.1 test.cookie.net` to `/etc/hosts`
 
 Last run the server:
 
