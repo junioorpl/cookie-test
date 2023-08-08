@@ -1,5 +1,7 @@
 # Cookie Test
 
+This repo is the code reproduction of this [Capacitor Issue](https://github.com/ionic-team/capacitor/issues/6754)
+
 # Setup
 
 To install the necessary modules run:
